@@ -1,12 +1,12 @@
-package hwRESTecl;
+package demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HwResTeclApplication {
+public class SimpleResTinception3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HwResTeclApplication.class, args);
+		SpringApplication.run(SimpleResTinception3Application.class, args);
 	}
 }
